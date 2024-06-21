@@ -5,6 +5,7 @@
 
 - In-Memory means it stores data in RAM instead of disks, due to which it allows faster data access.
 
+- https://redis.io/
 
 
 ## Use Case
